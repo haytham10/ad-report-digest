@@ -10,6 +10,12 @@ Automate daily ad performance reporting across Google Ads, Meta Ads, and GA4. Th
 - Post Slack digest (incoming webhook)
 - Log success/errors to file and CSV
 
+## Demo video
+Watch inline: https://haytham10.github.io/ad-report-digest/
+
+Or on YouTube:
+[![Watch the demo](https://img.youtube.com/vi/I1zrcAWNdFA/hqdefault.jpg)](https://youtu.be/I1zrcAWNdFA)
+
 ## Architecture
 - Fetchers: `ad_report_digest/fetchers/*.py`
 - Normalization & digest: `ad_report_digest/aggregator.py`
