@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+logs/
+service-account.json
+credentials.json
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Coverage/pytest
+.pytest_cache/
+.coverage*
+htmlcov/
+
+# Editors/OS
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
